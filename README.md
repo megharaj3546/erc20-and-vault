@@ -36,15 +36,6 @@ The Vault contract provides a secure mechanism for storing ERC20 tokens. It allo
 4. Deposit tokens into the vault using the appropriate function.
 5. Withdraw tokens from the vault as needed, subject to access control restrictions.
 
-## Installation
-
-To deploy the contracts locally or on a testnet/mainnet, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/your-username/erc20-vault-contracts.git`
-2. Install dependencies: `npm install`
-3. Compile contracts: `truffle compile`
-4. Deploy contracts: `truffle migrate`
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
